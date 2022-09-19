@@ -1,0 +1,5 @@
+#export SYSTEM_VERSION_COMPAT=0
+tensorflow==2.10.0
+tensorflow_metal==0.6.0
+absl-py==1.2.0
+black==22.8.0
