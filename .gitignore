@@ -7,7 +7,6 @@
 [Ll]ib
 [Ll]ib64
 [Ll]ocal
-[Ss]cripts
 pyvenv.cfg
 .venv
 pip-selfcheck.json
@@ -167,5 +166,4 @@ dmypy.json
 cython_debug/
 
 .idea
-model/model.png
-
+data/raw_dataset.json
